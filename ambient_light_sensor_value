@@ -1,3 +1,5 @@
+//This app check the ambient light sensor value. Based on sensor value it's display where is night/dark or day/bright in the surrounding. 
+
 //Code of App.js File
 
 //Dependencies: expo-sensors
